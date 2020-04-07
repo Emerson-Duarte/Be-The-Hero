@@ -26,10 +26,12 @@ Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num di
 cd "diretorio de sua preferencia"
 git clone https://github.com/Emerson-Duarte/Be-The-Hero.git
 ```
+E executar "npm install", para instalação das dependências.
+
 
 <h2>Configuração</h2>
 
-<p>Para executar o projeto, é necessária a utilização do Node e Express 
+<p>Para executar o projeto, foi necessária a utilização do Node e Express 
 (responsável por gerenciar requisições e rotas) para rodar o backend da aplicação 
 e para uma atualização automática do servidor instalar o módulo Nodemon.</p>
 
